@@ -1,7 +1,7 @@
 import cv2 as cv
 import numpy as np
 
-img = cv.imread('Path')
+img = cv.imread('image.jpg')
 
 # Translate - Shift an image about an axis
 def Translate(img, x, y): #image, pixles to shift by (x and y)

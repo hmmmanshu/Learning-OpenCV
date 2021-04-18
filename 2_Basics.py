@@ -1,6 +1,6 @@
 import cv2 as cv
 
-img = cv.imread('Path')
+img = cv.imread('image.jpg')
 
 # Convert an image to grayscale
 newImage = cv.cvtColor(img, cv.COLOR_BGR2GRAY) 
