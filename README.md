@@ -1,2 +1,2 @@
 # Learning-OpenCV
-Progress on learning open Computer Vision
+Progress on learning openCV
