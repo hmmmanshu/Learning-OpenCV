@@ -1,10 +1,12 @@
 import cv2 as cv
 
+# Reading image
 img = cv.imread('image.jpg')
 cv.imshow('Paris',img)
 cv.waitKey(0)
 
-vid = cv.VideoCapture('a.mp4')
+# Reading video
+vid = cv.VideoCapture('Face_Detection/a.mp4')
 while(1):
     isTrue, frame = vid.read()
     cv.imshow('Video',frame)

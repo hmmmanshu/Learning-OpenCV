@@ -14,7 +14,6 @@ cv.imshow("LAB", cv.cvtColor(img, cv.COLOR_BGR2LAB))
 # Only openCV uses the BGR format while outside openCV, we need to use to RGB format
 # See below how matplotlib percieves both the images
 # =======================================================
-
 plt.imshow(img) #BGR format
 plt.title("BGR")
 plt.show()

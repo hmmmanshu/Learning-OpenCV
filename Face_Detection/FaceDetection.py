@@ -2,7 +2,7 @@
 
 import cv2 as cv
 
-img = cv.imread('person.png')
+img = cv.imread('Data/person.png')
 img = cv.resize(img, (img.shape[1]//4, img.shape[0]//4))
 gray = cv.cvtColor(img, cv.COLOR_BGR2GRAY)
 
