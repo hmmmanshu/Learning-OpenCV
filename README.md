@@ -17,4 +17,4 @@ My progress on learning openCV
 - [Gradients](13_Gradients.py)
 
 ## Projects
-- [Face detection](.\Face_Detection)
+- [Face detection](./Face_Detection)
