@@ -19,4 +19,4 @@ My progress on learning openCV
 ## Projects
 - [Face detection - photo](./Face_Detection_OCV/FaceDetection.py)
 - [Face detection - video](./Face_Detection_OCV/FaceDetectVideo.py)
-- [Face recognition](./Face_Recognition_OCV/face_recognition.py)
+- [Face recognition](./Face_Recognition_OCV/face_recognizer.py)
