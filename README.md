@@ -17,6 +17,7 @@ My progress on learning openCV
 - [Gradients](13_Gradients.py)
 
 ## Projects
-- [Face detection - photo](./Face_Detection_OCV/FaceDetection.py)
-- [Face detection - video](./Face_Detection_OCV/FaceDetectVideo.py)
-- [Face recognition](./Face_Recognition_OCV/face_recognizer.py)
+- [Face detection - Photo](./Face_Detection_OCV/FaceDetection.py)
+- [Face detection - Video](./Face_Detection_OCV/FaceDetectVideo.py)
+- [Face recognition - OpenCV](./Face_Recognition_OCV/face_recognizer.py)
+- [Face recognition - Keras](./Face_Recognition_Keras/Simpson.ipynb)
