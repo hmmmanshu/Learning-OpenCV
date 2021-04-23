@@ -21,3 +21,4 @@ My progress on learning openCV
 - [Face detection - Video](./Face_Detection_OCV/FaceDetectVideo.py)
 - [Face recognition - OpenCV](./Face_Recognition_OCV/face_recognizer.py)
 - [Face recognition - Keras](./Face_Recognition_Keras/Simpson.ipynb)
+= [Auto clicker](https://github.com/Bot-7037/AutoClickTiles)
